@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">Balance Beam</string>
+    <string name="getstarted">Get Started</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="text1">Do not have an account ? </string>
+    <string name="text2">Sign up</string>
+
+    <string name="date">Friday, March 8, 2024</string>
+    <string name="text3">Account Balance</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="inumber">20000.00</string>
+    <string name="enumber">15000.00</string>
+    <string name="balance">5000.00</string>
+    <string name="lkr">LKR</string>
+
+    <string name="transactions">Transactions</string>
+    <string name="home">Home</string>
+    <string name="stats">Statistics</string>
+    <string name="profile">Profile</string>
+
+
+    <string name="Add">Add new transaction</string>
+    <string name="day">Pick Your Date</string>
+    <string name="catogory">Catogory</string>
+    <string name="description">Description</string>
+
+    <string name="export">Export Data</string>
+    <string name="reset">Reset password/Email</string>
+    <string name="logout">Log out</string>
+    <string name="username">User name</string>
+    <string name="name">Nisalka Jay</string>
+
+    <string name="food">Food</string>
+    <string name="Fuel">Fuel</string>
+    <string name="Entertainment">Entertainment</string>
+    <string name="tthousand">2000</string>
+    <string name="fthousand">5000</string>
+    <string name="ththousand">3000</string>
+    <string name="fothousand">4000</string>
+    <string name="month">Month</string>
+    <string name="all">All</string>
+    <string name="time">10:00 am</string>
+    <string name="time1">07:30 pm</string>
+    <string name="time2">04:30 pm</string>
+    <string name="time3">03:30 pm</string>
+    <string name="howmuch">How much ?</string>
+    <string name="price">11000.00</string>
+
+
+</resources>
